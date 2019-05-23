@@ -1,0 +1,10 @@
+{
+    "name": "admin/wp-seo-analytics",
+    "authors": [
+        {
+            "name": "Vasyl Sokolyk",
+            "email": "vsokolyk@gmail.com"
+        }
+    ],
+    "require": {}
+}
